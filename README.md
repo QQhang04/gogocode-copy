@@ -4,10 +4,8 @@
 
 [>>>>>>>>>>>>>>>>>>>阿里妈妈前端招聘啦~ ](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1019223&track_id=SSP1691116011187KXRTJqqMmf1253)
 
-## What is GoGoCode aaaaaa   github666?
-
+## What is GoGoCode?
 代码转换从未如此简单
-## What is GoGoCode2 this is BBBBB?
 
 [中文 README](README-cn.md)
 

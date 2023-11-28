@@ -44,7 +44,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 const outCode = script.generate();
 ```
 
-### Out
+### Out 已经废弃
 
 ```javascript
 const a = 1;

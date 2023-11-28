@@ -6,6 +6,8 @@
 
 ## What is GoGoCode2?
 
+代码转换从未如此简单
+
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
@@ -42,7 +44,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 const outCode = script.generate();
 ```
 
-### Out
+### Out 已经废弃
 
 ```javascript
 const a = 1;
